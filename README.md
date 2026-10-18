@@ -40,7 +40,13 @@ Customer-level recency, purchase frequency, monetary value, and rule-based segme
 
 ![Executive Overview](screenshots/executive-overview.png)
 
+### Geographic Analysis
 
+![Geographic Analysis](screenshots/geographic-analysis.png)
+
+### Customer Segmentation
+
+![Customer Segmentation](screenshots/customer-segmentation.png)
 
 ## Data Preparation
 
