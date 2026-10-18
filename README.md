@@ -36,7 +36,10 @@ Customer-level recency, purchase frequency, monetary value, and rule-based segme
 
 ## Dashboard Preview
 
-1. executive-overview.png
+### Executive Overview
+
+![Executive Overview](screenshots/executive-overview.png)
+
 
 
 ## Data Preparation
