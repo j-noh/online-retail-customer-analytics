@@ -34,6 +34,11 @@ Country-level comparisons of sales value and unit demand.
 
 Customer-level recency, purchase frequency, monetary value, and rule-based segments.
 
+## Dashboard Preview
+
+1. executive-overview.png
+
+
 ## Data Preparation
 
 The original dataset contains more than 540,000 transaction records. Data preparation included filtering nonpositive quantities and negative unit prices for the primary sales analysis, calculating transaction-line sales value, and excluding transactions without an identified customer from customer-level RFM analysis.
